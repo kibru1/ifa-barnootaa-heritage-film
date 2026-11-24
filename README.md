@@ -1,5 +1,5 @@
 # Ifa Barnootaa – The Light of Education
-
+Folder for Python film generation and assembly scripts.
 <p align="center">
   <strong>An AI-Generated Afaan Oromo Heritage Short Film</strong>
 </p>
