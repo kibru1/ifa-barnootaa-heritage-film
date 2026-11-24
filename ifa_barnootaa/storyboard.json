@@ -1,0 +1,91 @@
+{
+    "title": "Ifa Barnootaa - The Light of Education",
+    "language": "Afaan Oromo",
+    "target_duration_seconds": 70,
+    "aspect_ratios": [
+        "9:16",
+        "16:9"
+    ],
+    "shots": [
+        {
+            "id": 1,
+            "duration_seconds": 7,
+            "image_prompt": "A beautiful Ethiopian rural landscape at sunrise, a small village, warm golden sunlight, cinematic documentary style.",
+            "motion_prompt": "Slow cinematic camera movement across the village toward the rising sun.",
+            "narration": "Barnoonni jireenya namaa keessatti ifa guddaa dha.",
+            "music_cue": "Soft inspirational opening."
+        },
+        {
+            "id": 2,
+            "duration_seconds": 7,
+            "image_prompt": "A fictional Ethiopian school student preparing books and notebooks at home, warm natural lighting, cinematic realism.",
+            "motion_prompt": "Slow camera push toward the student preparing school materials.",
+            "narration": "Dargaggeessi tokko abjuu guddaa fi abdii cimaa qaba.",
+            "music_cue": "Gentle piano and traditional instrumental texture."
+        },
+        {
+            "id": 3,
+            "duration_seconds": 7,
+            "image_prompt": "A fictional Ethiopian student walking along a rural path toward school, green countryside, morning light, cinematic wide composition.",
+            "motion_prompt": "Gentle tracking shot following the student walking toward school.",
+            "narration": "Guyyaa guyyaan, barachuuf karaa dheeraa deema.",
+            "music_cue": "Hopeful instrumental rhythm begins."
+        },
+        {
+            "id": 4,
+            "duration_seconds": 7,
+            "image_prompt": "An Ethiopian teacher teaching students in a modest classroom, students listening attentively, warm daylight, realistic cinematic style.",
+            "motion_prompt": "Slow pan across the classroom toward the teacher.",
+            "narration": "Barsiisaan gaariin beekumsa qofa osoo hin taane abdii kenna.",
+            "music_cue": "Warm gentle orchestral layer."
+        },
+        {
+            "id": 5,
+            "duration_seconds": 7,
+            "image_prompt": "Close-up of a student's hands writing in a notebook beside textbooks, natural window light, cinematic detail.",
+            "motion_prompt": "Slow close-up movement across the notebook and writing hand.",
+            "narration": "Barataan kun dubbisuu, barreessuu fi gaaffii gaafachuu barataa jira.",
+            "music_cue": "Soft piano continues."
+        },
+        {
+            "id": 6,
+            "duration_seconds": 7,
+            "image_prompt": "A fictional Ethiopian family encouraging a young student at home, caring expressions, simple home environment, warm cinematic lighting.",
+            "motion_prompt": "Gentle camera movement showing the family supporting the student.",
+            "narration": "Maatiin isaa isa jajjabeessa; hawaasnis milkaa'ina isaa deeggera.",
+            "music_cue": "Warm emotional instrumental passage."
+        },
+        {
+            "id": 7,
+            "duration_seconds": 7,
+            "image_prompt": "A determined student studying at a wooden desk in the evening under a small lamp, books open, cinematic atmosphere.",
+            "motion_prompt": "Slow camera push toward the focused student and open books.",
+            "narration": "Rakkoon yoo jiraate illee, abdii isaa hin dhiisu.",
+            "music_cue": "Music gradually builds with quiet determination."
+        },
+        {
+            "id": 8,
+            "duration_seconds": 7,
+            "image_prompt": "A student standing near a school doorway looking toward a bright future, sunlight entering the school, cinematic hopeful composition.",
+            "motion_prompt": "Slow camera movement from the student toward the bright doorway.",
+            "narration": "Beekumsi karaa haaraa fi carraa haaraa namaaf bana.",
+            "music_cue": "Inspirational instrumental rise."
+        },
+        {
+            "id": 9,
+            "duration_seconds": 7,
+            "image_prompt": "A young educated Ethiopian person helping community members in a village, positive community interaction, realistic cinematic style.",
+            "motion_prompt": "Slow cinematic pan showing the student helping members of the community.",
+            "narration": "Namni barate maatii isaa fi hawaasa isaa gargaaruu danda'a.",
+            "music_cue": "Hopeful uplifting instrumental."
+        },
+        {
+            "id": 10,
+            "duration_seconds": 7,
+            "image_prompt": "Beautiful sunset over an Ethiopian school and village, students walking together, hopeful cinematic ending, space for closing title.",
+            "motion_prompt": "Slow pull-back from the school into a warm sunset, ending with a gentle fade.",
+            "narration": "Barnoonni ifa egeree ti. Egaa, barnoota haa deeggaru.",
+            "music_cue": "Emotional musical resolution and gentle fade."
+        }
+    ]
+}

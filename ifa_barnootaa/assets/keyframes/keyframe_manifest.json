@@ -1,0 +1,92 @@
+[
+    {
+        "shot_id": 1,
+        "filename": "keyframe_01.png",
+        "prompt": "Beautiful Ethiopian rural village at sunrise, green hills, small traditional houses, warm golden sunlight across the landscape, peaceful morning atmosphere. cinematic photorealism, authentic Ethiopian rural setting, natural human anatomy, warm golden lighting, professional film cinematography, realistic details, balanced composition, no text, no watermark",
+        "seed": 1001,
+        "model": "stabilityai/sd-turbo",
+        "width": 512,
+        "height": 768
+    },
+    {
+        "shot_id": 2,
+        "filename": "keyframe_02.png",
+        "prompt": "same fictional 18-year-old Ethiopian male student, warm brown skin, short neat black hair, slim build, light-blue shirt, dark trousers, modest school backpack preparing school books and notebooks at home, simple Ethiopian home interior, caring morning light. cinematic photorealism, authentic Ethiopian rural setting, natural human anatomy, warm golden lighting, professional film cinematography, realistic details, balanced composition, no text, no watermark",
+        "seed": 1002,
+        "model": "stabilityai/sd-turbo",
+        "width": 512,
+        "height": 768
+    },
+    {
+        "shot_id": 3,
+        "filename": "keyframe_03.png",
+        "prompt": "same fictional 18-year-old Ethiopian male student, warm brown skin, short neat black hair, slim build, light-blue shirt, dark trousers, modest school backpack walking along a rural dirt path toward school, green Ethiopian countryside, morning sunlight, wide natural landscape. cinematic photorealism, authentic Ethiopian rural setting, natural human anatomy, warm golden lighting, professional film cinematography, realistic details, balanced composition, no text, no watermark",
+        "seed": 1003,
+        "model": "stabilityai/sd-turbo",
+        "width": 512,
+        "height": 768
+    },
+    {
+        "shot_id": 4,
+        "filename": "keyframe_04.png",
+        "prompt": "Ethiopian teacher teaching students in a modest rural classroom, students listening attentively, blackboard, desks, warm daylight. cinematic photorealism, authentic Ethiopian rural setting, natural human anatomy, warm golden lighting, professional film cinematography, realistic details, balanced composition, no text, no watermark",
+        "seed": 1004,
+        "model": "stabilityai/sd-turbo",
+        "width": 512,
+        "height": 768
+    },
+    {
+        "shot_id": 5,
+        "filename": "keyframe_05.png",
+        "prompt": "Close-up of the hands of same fictional 18-year-old Ethiopian male student, warm brown skin, short neat black hair, slim build, light-blue shirt, dark trousers, modest school backpack writing carefully in a notebook beside textbooks, natural window light, detailed writing scene. cinematic photorealism, authentic Ethiopian rural setting, natural human anatomy, warm golden lighting, professional film cinematography, realistic details, balanced composition, no text, no watermark",
+        "seed": 1005,
+        "model": "stabilityai/sd-turbo",
+        "width": 512,
+        "height": 768
+    },
+    {
+        "shot_id": 6,
+        "filename": "keyframe_06.png",
+        "prompt": "A fictional Ethiopian family warmly encouraging same fictional 18-year-old Ethiopian male student, warm brown skin, short neat black hair, slim build, light-blue shirt, dark trousers, modest school backpack at home, caring expressions, simple home environment, family support and hope. cinematic photorealism, authentic Ethiopian rural setting, natural human anatomy, warm golden lighting, professional film cinematography, realistic details, balanced composition, no text, no watermark",
+        "seed": 1006,
+        "model": "stabilityai/sd-turbo",
+        "width": 512,
+        "height": 768
+    },
+    {
+        "shot_id": 7,
+        "filename": "keyframe_07.png",
+        "prompt": "same fictional 18-year-old Ethiopian male student, warm brown skin, short neat black hair, slim build, light-blue shirt, dark trousers, modest school backpack studying with concentration at a wooden desk in the evening, open books, small warm desk lamp, quiet atmosphere. cinematic photorealism, authentic Ethiopian rural setting, natural human anatomy, warm golden lighting, professional film cinematography, realistic details, balanced composition, no text, no watermark",
+        "seed": 1007,
+        "model": "stabilityai/sd-turbo",
+        "width": 512,
+        "height": 768
+    },
+    {
+        "shot_id": 8,
+        "filename": "keyframe_08.png",
+        "prompt": "same fictional 18-year-old Ethiopian male student, warm brown skin, short neat black hair, slim build, light-blue shirt, dark trousers, modest school backpack standing near a school doorway looking toward bright sunlight, hopeful future, inspiring school environment. cinematic photorealism, authentic Ethiopian rural setting, natural human anatomy, warm golden lighting, professional film cinematography, realistic details, balanced composition, no text, no watermark",
+        "seed": 1008,
+        "model": "stabilityai/sd-turbo",
+        "width": 512,
+        "height": 768
+    },
+    {
+        "shot_id": 9,
+        "filename": "keyframe_09.png",
+        "prompt": "The same young Ethiopian student, now helping community members in a rural village, friendly interaction, sharing knowledge, positive atmosphere. cinematic photorealism, authentic Ethiopian rural setting, natural human anatomy, warm golden lighting, professional film cinematography, realistic details, balanced composition, no text, no watermark",
+        "seed": 1009,
+        "model": "stabilityai/sd-turbo",
+        "width": 512,
+        "height": 768
+    },
+    {
+        "shot_id": 10,
+        "filename": "keyframe_10.png",
+        "prompt": "Beautiful sunset over an Ethiopian school and village, students walking together in the distance, golden sky, hopeful cinematic ending, open space in the upper area. cinematic photorealism, authentic Ethiopian rural setting, natural human anatomy, warm golden lighting, professional film cinematography, realistic details, balanced composition, no text, no watermark",
+        "seed": 1010,
+        "model": "stabilityai/sd-turbo",
+        "width": 512,
+        "height": 768
+    }
+]
