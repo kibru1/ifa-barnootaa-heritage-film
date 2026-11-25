@@ -1,8 +1,8 @@
 ## Final Film Deliverables
 
-### Vertical Film (9:16)
+[### Vertical Film (9:16)
 
-[Watch the film on Google Drive](https://drive.google.com/file/d/1m8VWuvFTuq5cQAOV9RrDfz0nuxgCHSXb/view?usp=drive_link)
+[Watch the film on Google Drive](https://drive.google.com/file/d/1m8VWuvFTuq5cQAOV9RrDfz0nuxgCHSXb/view?usp=drive_link)](https://drive.google.com/file/d/1OZVwTDvudeMi5mjBsEbIr7_GnGNDF1X3/view?usp=sharing)
 <p align="center">
   <strong>An AI-Generated Afaan Oromo Heritage Short Film</strong>
 </p>
