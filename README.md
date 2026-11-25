@@ -35,11 +35,7 @@ This project explores how artificial intelligence and digital storytelling can s
 
 The completed film is available in two formats. The videos are hosted on Google Drive because of GitHub's individual file-size upload restrictions.
 
-**Video 1**
-
-[Watch the film on Google Drive](https://drive.google.com/file/d/1m8VWuvFTuq5cQAOV9RrDfz0nuxgCHSXb/view?usp=drive_link)
-
-**Video 2**
+**Video 1 and 2**
 
 [Watch the film on Google Drive](https://drive.google.com/file/d/1OZVwTDvudeMi5mjBsEbIr7_GnGNDF1X3/view?usp=sharing)
 
